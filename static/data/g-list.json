@@ -23,21 +23,20 @@
       "url": "openAg('https://1v1.lol')"
     },
     {
-{
   "name": "BENDY AND THE INK MACHINE. LEGIT REAL GAME",
   "imageUrl": "/assets/img/symb.webp",
   "url": "openAg('https://truffled.lol/games/BATIM/BATIM/index.html')"
-},
-{
+    },
+    {
   "name": "Baldi's Basics",
   "imageUrl": "/assets/img/symb.webp",
   "url": "openAg('https://truffled.lol/games/baldis-basics/index.html')"
-},
-{
+   },
+   {
   "name": "Cutting GRASS SIMULATOR",
   "imageUrl": "/assets/img/symb.webp",
   "url": "openAg('https://games.crazygames.com/en_US/stone-grass-mowing-simulator/index.html?isNewUser=false&v=1.339')"
-},
+   },
 {
   "name": "Sandbox city (GTA BUT WITH ZOMBIES)",
   "imageUrl": "/assets/img/symb.webp",
@@ -127,7 +126,8 @@
   "name": "Super Mario 64",
   "imageUrl": "/assets/img/symb.webp",
   "url": "openAg('https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Mario+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-64-thumb.jpg&rom_slug=super-mario-64')"
-}
+},
+{
       "name": "Awesome Tanks 2",
       "imageUrl": "/assets/img/atanks2.webp",
       "url": "openAg('https://derpman.codeberg.page/awesometanks2/')",
