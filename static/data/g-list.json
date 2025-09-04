@@ -23,6 +23,111 @@
       "url": "openAg('https://1v1.lol')"
     },
     {
+{
+  "name": "BENDY AND THE INK MACHINE. LEGIT REAL GAME",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/games/BATIM/BATIM/index.html')"
+},
+{
+  "name": "Baldi's Basics",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/games/baldis-basics/index.html')"
+},
+{
+  "name": "Cutting GRASS SIMULATOR",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/stone-grass-mowing-simulator/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "Sandbox city (GTA BUT WITH ZOMBIES)",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/sandbox-city---cars-zombies-ragdolls/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "Traffic Rider",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/traffic-rider-vvq/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "Steal A Brainrot",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/steal-brainrot-online/index.html?v=1.339')"
+},
+{
+  "name": "Prison Escape",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/prison-escape-lnj/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "BLOXD.IO (LIKE MINECRAFT) (MULTIPLAYER)",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://growden.io/?cg=true&auto_play=true&isNewUser=false')"
+},
+{
+  "name": "Real Fishing Simulator",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/real-fishing-simulator/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "Ice Fishing",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/ice-fishing/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "DOORS(MULTIPLAYER)",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/doors-castle/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "SQUID GAMES (MULTIPLAYER)",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/456-guys/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "ONLY UP (MULTIPLAYER)",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://simplyup.io/?isNewUser=false')"
+},
+{
+  "name": "GROW A GARDEN (MULTIPLAYER)",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://growden.io/?cg=true&auto_play=true&isNewUser=false')"
+},
+{
+  "name": "RACING LIMITS (MULTIPLAYER)",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://games.crazygames.com/en_US/racing-limits/index.html?isNewUser=false&v=1.339')"
+},
+{
+  "name": "brawl stars",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://playhop.com/dist-app/257474?skip-guard=1&header=no&utm_source=distrib&utm_medium=moosite&flags={%22adv_sticky_banner_disabled%22:true}')"
+},
+{
+  "name": "fnaf 1",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://run3.io/popgame/fnaf/fnaf1/')"
+},
+{
+  "name": "fnaf 2",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://fazbearenterprise.itch.io/five-nights-at-freddys-2-web-version')"
+},
+{
+  "name": "Mario Kart 64",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FMario+Kart+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/mario-kart-64-thumb.jpg&rom_slug=mario-kart-64')"
+},
+{
+  "name": "Twisted Metal",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://downloads.webmulator.com/play.php?emulator=2&console_slug=playstation-1&rom_url=%2Froms%2FTwisted%2520Metal%2520%255BSCUS-94304%255D%2520Bin.rar&thumb_url=https://www.webmulator.com/img/roms/thumbs/twisted-metal-ps1-thumb-scus-94304-bin.jpg&rom_slug=twisted-metal-scus-94304-bin')"
+},
+{
+  "name": "Super Mario 64",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://downloads.webmulator.com/play.php?emulator=2&console_slug=nintendo-64&rom_url=%2Froms%2FSuper+Mario+64+%28USA%29.zip&thumb_url=https://www.webmulator.com/img/roms/thumbs/super-mario-64-thumb.jpg&rom_slug=super-mario-64')"
+}
       "name": "Awesome Tanks 2",
       "imageUrl": "/assets/img/atanks2.webp",
       "url": "openAg('https://derpman.codeberg.page/awesometanks2/')",
