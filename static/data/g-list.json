@@ -27,6 +27,36 @@
   "imageUrl": "/assets/img/symb.webp",
   "url": "openAg('https://truffled.lol/games/BATIM/BATIM/index.html')"
     },
+   {
+  "name": "FNAF 4",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/games/fnaf4/index.html')"
+    },
+   {
+  "name": "GEODASH",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/games/geodash/index.html')"
+    },
+   {
+  "name": "FNAF 4 HALLOWEEN",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/gamefile/ween.html')"
+    },
+  {
+  "name": "PEOPLE PLAYGROUND",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/games/PPG/PPG/index.html')"
+    },
+   {
+  "name": "MELON PLAYGROUND",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/games/melon-playground/index.html')"
+    },
+    {
+  "name": "FNAF SL",
+  "imageUrl": "/assets/img/symb.webp",
+  "url": "openAg('https://truffled.lol/gamefile/fnafs.html')"
+    },
     {
   "name": "Baldi's Basics",
   "imageUrl": "/assets/img/symb.webp",
