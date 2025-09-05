@@ -10,6 +10,13 @@
       "imageUrl": "/assets/img/roblox.webp",
       "url": "rbx()"
     },
+ {
+      "name": "sigma",
+      "imageUrl": "/assets/img/unnamed.png",
+      "url": "openAg('')"
+   
+ 
+    }
     {
       "name": "Tiny Fishing",
       "imageUrl": "https://raw.githack.com/Skoolgq/Polaris-Assets/main/tiny-fishing/thumb.png",
