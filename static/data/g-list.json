@@ -11,14 +11,14 @@
       "url": "rbx()"
     },
     {
-      "name": "Furry dress up",
-      "imageUrl": "/assets/img/geforcenow.webp",
-      "url": "openAg('https://games.crazygames.com/en_US/furry-dress-up-anime-creator/index.html?v=1.339')"
-    },
-    {
       "name": "Tiny Fishing",
       "imageUrl": "https://raw.githack.com/Skoolgq/Polaris-Assets/main/tiny-fishing/thumb.png",
       "url": "openAg('https://raw.githack.com/Skoolgq/Polaris-Assets/main/tiny-fishing/index.html')"
+    }
+    {
+      "name": "Free pc games",
+      "imageUrl": "https://raw.githack.com/Skoolgq/Polaris-Assets/main/tiny-fishing/thumb.png",
+      "url": "openAg('https://you-are-idiot.github.io/')"
     }
   ],
   "Shooter Games": [
