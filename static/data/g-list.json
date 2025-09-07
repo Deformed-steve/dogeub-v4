@@ -27,9 +27,49 @@
       "imageUrl": "/assets/img/1v1.webp",
       "url": "openAg('https://1v1.lol')"
     },
+  {
+    "name": "OFF BRAND CLASH ROYALE",
+    "imageUrl": "/assets/img/clashroyale.png",
+    "url": "openAg('https://html5.gamedistribution.com/rvvASMiM/7fb6eddc884e4a0380f40410134650a3/index.html?gdpr-targeting=0&gdpr-tracking=0&gdpr-third-party=0%2F%3Fgd_sdk_referrer_url%3Dhttps%3A%2F%2Fwww.topgames.com%2Fplay%2FClash-Royale-Online&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy50b3BnYW1lcy5jb20vIiwicGFyZW50RG9tYWluIjoidG9wZ2FtZXMuY29tIiwidG9wRG9tYWluIjoidG9wZ2FtZXMuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xOCJ9')"
+  },
+  {
+    "name": "Clash Royale Real",
+    "imageUrl": "/assets/img/clashroyale.png",
+    "url": "openAg('https://www.easyfun.gg/embed/clash-royale-cloud-online.html?start=1')"
+  },
+  {
+    "name": "Minecraft 1.8.8",
+    "imageUrl": "/assets/img/minecraft188.png",
+    "url": "openAg('https://eaglercraft.com/mc/1.8.8-wasm/')"
+  },
+  {
+    "name": "Baldi's Basics",
+    "imageUrl": "/assets/img/baldisbasics.png",
+    "url": "openAg('https://www.gameslol.net/data/baldis-basics/index.html')"
+  },
+  {
+    "name": "Bendy and The Ink Machine",
+    "imageUrl": "/assets/img/bendy.png",
+    "url": "openAg('https://pokedoku.co/games/webgl/bendy-and-the-ink-machine/')"
+  },
+  {
+    "name": "Hotline Miami",
+    "imageUrl": "/assets/img/hotlinemiami.png",
+    "url": "openAg('https://deformed-steve.github.io/game/Hotline%20Miami.html')"
+  },
+  {
+    "name": "Undertale",
+    "imageUrl": "/assets/img/default.png",
+    "url": "openAg('https://deformed-steve.github.io/game/Undertale.html')"
+  },
+  {
+    "name": "That's Not My Neighbor",
+    "imageUrl": "/assets/img/tnmn.png",
+    "url": "openAg('https://deformed-steve.github.io/game/That%27s%20Not%20My%20Neighbor.html')"
+    },
     {
-  "name": "BENDY AND THE INK MACHINE. LEGIT REAL GAME",
-  "imageUrl": "/assets/img/symb.webp",
+  "name": "BENDY AND THE INK MACHINE. Worse version i thinK???",
+  "imageUrl": "/assets/img/bendy.webp",
   "url": "openAg('https://truffled.lol/games/BATIM/BATIM/index.html')"
     },
    {
