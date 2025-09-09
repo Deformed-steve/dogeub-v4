@@ -6,6 +6,11 @@
     "url": "openAg('https://play.geforcenow.com')"
   },
   {
+    "name": "emulator",
+    "imageUrl": "/assets/img/geforcenow.webp",
+    "url": "openAg('https://run.cloudmoonapp.com/?coor_url=https%3A%2F%2Fcoordinator-funplus-va.prod.nenly.cn&userid=1965371060056494080&game=com.roblox.client&android_instance_id=eyJ1c2VySWQiOiIxOTY1MzcxMDYwMDU2NDk0MDgwIiwiYW5kcm9pZE5hbWUiOiJiZHktMTAuMTYwLjEwMi4xMjEiLCJhbmRyb2lkSXAiOiIxMC4xNjAuMTAyLjEyMSIsInN2YyI6IiIsImNvb3JVcmwiOiJodHRwczovL2Nvb3JkaW5hdG9yLWZ1bnBsdXMtdmEucHJvZC5uZW5seS5jbiJ9')"
+  },
+  {
     "name": "Roblox",
     "imageUrl": "/assets/img/roblox.webp",
     "url": "rbx()"
