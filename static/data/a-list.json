@@ -9,6 +9,9 @@
     "imageUrl": "/assets/img/gpt.webp",
     "url": "openAg('https://julius.ai/ai-chatbot')"
   },
+   "name": "CLOUDMOON",
+    "imageUrl": "/assets/img/gpt.webp",     "url":"openAg('https://web.cloudmoonapp.com/')"
+  },
   {
     "name": "Gemini",
     "imageUrl": "/assets/img/gemini.webp",
